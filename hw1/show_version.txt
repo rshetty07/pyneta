@@ -18,10 +18,10 @@ software.
 
 ROM: IOS-XE ROMMON
 
-cisco4 uptime is 49 weeks, 1 day, 1 hour, 50 minutes
-Uptime for this control processor is 49 weeks, 1 day, 1 hour, 52 minutes
+cisco4 uptime is 1 year, 1 day, 23 hours, 12 minutes
+Uptime for this control processor is 1 year, 1 day, 23 hours, 14 minutes
 System returned to ROM by Reload Command at 09:49:02 PDT Fri May 29 2020
-System restarted at 09:59:17 PDT Fri May 29 2020
+System restarted at 09:59:16 PDT Fri May 29 2020
 System image file is "bootflash:c1100-universalk9_ias.16.12.03.SPA.bin"
 Last reload reason: Reload Command
 
